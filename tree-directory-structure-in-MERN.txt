@@ -1,0 +1,25 @@
+my-mern-app/
+├── backend/
+│   ├── config/
+│   ├── controllers/
+│   ├── middlewares/
+│   ├── models/
+│   ├── routes/
+│   ├── server.js
+│   ├── package.json
+│   └── .env
+├── frontend/
+│   ├── public/
+│   │   └── index.html
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   ├── styles/
+│   │   │   ├── main.css
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── routes.js
+│   ├── package.json
+│   └── .env
+└── README.md
