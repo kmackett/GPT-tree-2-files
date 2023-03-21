@@ -1,46 +1,25 @@
-.
-├── Documents
-│   ├── important.docx
-│   ├── resume.pdf
-│   └── notes.txt
-├── Pictures
-│   ├── nature
-│   │   ├── waterfall.jpg
-│   │   └── forest.png
-│   ├── family
-│   │   ├── beach.jpg
-│   │   └── wedding.png
-│   └── pets
-│       ├── cat.jpg
-│       └── dog.png
-├── Music
-│   ├── rock
-│   │   ├── ACDC
-│   │   │   ├── back_in_black.mp3
-│   │   │   └── highway_to_hell.mp3
-│   │   └── Metallica
-│   │       ├── master_of_puppets.mp3
-│   │       └── one.mp3
-│   └── pop
-│       ├── Taylor Swift
-│       │   ├── shake_it_off.mp3
-│       │   └── blank_space.mp3
-│       └── Ed Sheeran
-│           ├── shape_of_you.mp3
-│           └── thinking_out_loud.mp3
-└── Programs
-    ├── Microsoft Office
-    │   ├── Word.exe
-    │   ├── Excel.exe
-    │   └── PowerPoint.exe
-    ├── Adobe Creative Suite
-    │   ├── Photoshop.exe
-    │   ├── Illustrator.exe
-    │   └── InDesign.exe
-    └── Games
-        ├── first_person_shooter
-        │   ├── Call of Duty.exe
-        │   └── Battlefield.exe
-        └── role_playing
-            ├── World of Warcraft.exe
-            └── Skyrim.exe
+my-mern-app/
+├── backend/
+│   ├── config/
+│   ├── controllers/
+│   ├── middlewares/
+│   ├── models/
+│   ├── routes/
+│   ├── server.js
+│   ├── package.json
+│   └── .env
+├── frontend/
+│   ├── public/
+│   │   └── index.html
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   ├── styles/
+│   │   │   ├── main.css
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── routes.js
+│   ├── package.json
+│   └── .env
+└── README.md
